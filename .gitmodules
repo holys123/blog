@@ -1,0 +1,3 @@
+[submodule "source/_post"]
+	path = source/_post
+	url = https://github.com/holys123/blog_post.git
